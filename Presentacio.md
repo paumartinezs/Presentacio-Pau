@@ -1,7 +1,5 @@
 # Guió per a la Defensa Final de Curs
 
-Aquest document conté l'estructura, el fil conductor i els recursos clau per a l'exposició oral de la defensa.
-
 ---
 
 ## Seccio 1: Introducció
