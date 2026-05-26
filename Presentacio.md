@@ -60,8 +60,3 @@ El desenvolupament continuat d'aquests projectes ha permès consolidar habilitat
 
 ---
 
-## Seccio 6: Cloenda
-
-Amb aquest repàs de la feina feta dono per finalitzada la meva intervenció. Quedo a la vostra sencera disposició per a qualsevol pregunta, dubte o comentari que el tribunal consideri oportú realitzar sobre els projectes presentats.
-
-Moltes gràcies per la vostra atenció.
