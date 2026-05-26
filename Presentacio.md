@@ -38,15 +38,13 @@ L'objectiu central d'aquesta defensa és sotmetre a avaluació els resultats con
 
 A continuació es detalla la relació de projectes acadèmics desenvolupats, que constitueixen el nucli pràctic d'aquesta defensa:
 
-| Bloc de Treball | Estat / Accés al Repositori |
-| :--- | :--- ||
-| **Projecte 2** | [Accedir a Projecte2_EverPia](https://github.com/paumartinezs/Projece2_EverPIA) |
-| **Projecte 3** | [Accedir a Projecte3_EverPia2](https://github.com/paumartinezs/Projece3_EverPIA2) |
-| **Projecte 4** | [Accedir a Projecte4_EverPia3](https://github.com/paumartinezs/Projece4_EverPIA3) |
-| **Projecte 5** | [Accedir a projecte5-bieel77](https://github.com/paumartinezs/Projece5_EverPIA4) |
-| **Projecte 6** | [Accedir a projecte6-bieel77](https://github.com/paumartinezs/projecte6-paumartinezs) |
-| **Projecte 7** | [Accedir a projecte-7-bieel77](https://github.com/paumartinezs/projecte-7-paumartinezs) |
-| **Projecte 8** | [Accedir a projecte-8-bieel77](https://github.com/paumartinezs/projecte-8-paumartinezs) |
+- [**Projecte 2**](https://github.com/paumartinezs/Projece2_EverPIA) 
+- [**Projecte 3**](https://github.com/paumartinezs/Projece3_EverPIA2) 
+- [**Projecte 4**](https://github.com/paumartinezs/Projece4_EverPIA3) 
+- [**Projecte 5**](https://github.com/paumartinezs/Projece5_EverPIA4)
+- [**Projecte 6**](https://github.com/paumartinezs/projecte6-paumartinezs) 
+- [**Projecte 7**](https://github.com/paumartinezs/projecte-7-paumartinezs) 
+- [**Projecte 8**](https://github.com/paumartinezs/projecte-8-paumartinezs) 
 
 ---
 
