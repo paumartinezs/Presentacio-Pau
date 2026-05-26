@@ -4,15 +4,15 @@ Aquest document conté l'estructura, el fil conductor i els recursos clau per a 
 
 ---
 
-## Seccio 1: Introduccio i Salutacio
+## Seccio 1: Introducció
 
 Bona tarda, membres del tribunal.
 
-El meu nom és Biel Pérez i a continuació faré la presentació de la meva defensa final de curs. Aquesta exposició té com a finalitat sintetitzar el treball desenvolupat, analitzar la trajectòria dels projectes realitzats i exposar les competències adquirides al llarg d'aquest període acadèmic.
+El meu nom és Pau Martínez i a continuació faré la presentació de la meva defensa final de curs. Aquesta exposició té com a finalitat sintetitzar el treball desenvolupat, analitzar la trajectòria dels projectes realitzats i exposar les competències adquirides al llarg d'aquest període acadèmic.
 
 ---
 
-## Seccio 2: Bloques de l'Exposicio
+## Seccio 2: Bloques de l'Exposició
 
 El fil conductor de la defensa es dividirà en els següents punts:
 
@@ -23,7 +23,7 @@ El fil conductor de la defensa es dividirà en els següents punts:
 
 ---
 
-## Seccio 3: Objectius Core de la Presentacio
+## Seccio 3: Objectius Core de la Presentació
 
 L'objectiu central d'aquesta defensa és sotmetre a avaluació els resultats concrets del curs, posant el focus en:
 
@@ -39,15 +39,14 @@ L'objectiu central d'aquesta defensa és sotmetre a avaluació els resultats con
 A continuació es detalla la relació de projectes acadèmics desenvolupats, que constitueixen el nucli pràctic d'aquesta defensa:
 
 | Bloc de Treball | Estat / Accés al Repositori |
-| :--- | :--- |
-| **Projecte 1** | No realitzat (Convalidat per estada Erasmus) |
-| **Projecte 2** | [Accedir a Projecte2_EverPia](https://github.com/bieel77/Projecte2_EverPia) |
-| **Projecte 3** | [Accedir a Projecte3_EverPia2](https://github.com/bieel77/Projecte3_EverPia2) |
-| **Projecte 4** | [Accedir a Projecte4_EverPia3](https://github.com/bieel77/Projecte4_EverPia3) |
-| **Projecte 5** | [Accedir a projecte5-bieel77](https://github.com/bieel77/projecte5-bieel77) |
-| **Projecte 6** | [Accedir a projecte6-bieel77](https://github.com/bieel77/projecte6-bieel77) |
-| **Projecte 7** | [Accedir a projecte-7-bieel77](https://github.com/bieel77/projecte-7-bieel77) |
-| **Projecte 8** | [Accedir a projecte-8-bieel77](https://github.com/classesSMX2n/projecte-8-bieel77) |
+| :--- | :--- ||
+| **Projecte 2** | [Accedir a Projecte2_EverPia](https://github.com/paumartinezs/Projece2_EverPIA) |
+| **Projecte 3** | [Accedir a Projecte3_EverPia2](https://github.com/paumartinezs/Projece3_EverPIA2) |
+| **Projecte 4** | [Accedir a Projecte4_EverPia3](https://github.com/paumartinezs/Projece4_EverPIA3) |
+| **Projecte 5** | [Accedir a projecte5-bieel77](https://github.com/paumartinezs/Projece5_EverPIA4) |
+| **Projecte 6** | [Accedir a projecte6-bieel77](https://github.com/paumartinezs/projecte6-paumartinezs) |
+| **Projecte 7** | [Accedir a projecte-7-bieel77](https://github.com/paumartinezs/projecte-7-paumartinezs) |
+| **Projecte 8** | [Accedir a projecte-8-bieel77](https://github.com/paumartinezs/projecte-8-paumartinezs) |
 
 ---
 
