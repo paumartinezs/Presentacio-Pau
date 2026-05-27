@@ -4,7 +4,7 @@
 
 ## Seccio 1: Introducció
 
-Bona tarda, membres del tribunal.
+Bona tarda, 
 
 El meu nom és Pau Martínez i a continuació faré la presentació de la meva defensa final de curs. Aquesta exposició té com a finalitat sintetitzar el treball desenvolupat, analitzar la trajectòria dels projectes realitzats i exposar les competències adquirides al llarg d'aquest període acadèmic.
 
