@@ -2,7 +2,21 @@
 
 ---
 
-## Seccio 1: Introducció
+## Index
+
+ - Sobre mi
+ - Projecte 1: Arranquem
+ - Projecte 2: Consultoria EverPia
+ - Projecte 3: Consultoria EverPia 2
+ - Projecte 4: Consultoria EverPia 3
+ - Projecte 5: Incubadora
+ - Projecte 6: Nexus
+ - Projecte 7: FoodLogistic S.A
+ - Projecte 8: Connecta't al Futur: El repte de la digitalització real
+
+
+
+## Introducció / Sobre mi
 
 Bona tarda, 
 
@@ -32,7 +46,7 @@ L'objectiu central d'aquesta defensa és sotmetre a avaluació els resultats con
 
 ---
 
-## Seccio 4: Cataleg de Projectes i Repositoris
+## Seccio 4: Enllaços als repositoris Github
 
 A continuació es detalla la relació de projectes acadèmics desenvolupats, que constitueixen el nucli pràctic d'aquesta defensa:
 
