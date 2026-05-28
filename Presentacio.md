@@ -14,7 +14,7 @@
  - Projecte 7: FoodLogistic S.A
  - Projecte 8: Connecta't al Futur: El repte de la digitalització real
 
-
+---
 
 ## 1. Introducció / Sobre mi
 
@@ -146,18 +146,122 @@ Comença l'era d'EverPia 2. L'etapa de creació ha donat pas a la de resistènci
 --- 
 
 
+## *Projecte 04 | Consultoria EverPia 3*
 
 
+<img width="338" height="235" alt="image" src="https://github.com/user-attachments/assets/51d6f7c9-7805-4a43-8d22-b76e0ee68e5b" />
+
+Aquest projecte trasllada l’estudiant a un entorn real d’empresa tecnològica, posant a prova la seva autonomia, solvència tècnica i rigor professional. L'objectiu és la integració transversal de coneixements en sistemes, xarxes, seguretat i serveis web mitjançant la resolució d'incidències reals i la documentació sistemàtica de processos.
+
+**Estructura del projecte:**
+
+ - Bloc Tècnic: Implementació de polítiques de còpies de seguretat i recuperació (Rescuezilla), desplegament de serveis (NFS, CUPS) i solucions d'accés remot.
+
+ - Bloc Creatiu i Gestió: Disseny d'interfícies (Figma), control de versions (Git), organització àgil (Kanban) i documentació tècnica detallada.
+
+A més, el projecte integra criteris de sostenibilitat i economia circular en les solucions proposades. El lliurament final consisteix en un dossier professional complet que acredita la capacitat de l'alumne per exercir amb èxit en el sector IT.
 
 
+### Enllaços
+
+[Projecte04 - Consultoria EverPia 3 | Documentació](https://docs.google.com/document/d/1VulXbtUf8-QMwnKRvd_sY5IVLjWcDqXs/edit?rtpof=true&sd=true&tab=t.0)
+
+[Projecte04 - Consultoria EverPia 3 | Repositori Github](https://github.com/paumartinezs/Projece4_EverPIA3)
 
 
+---
+
+## *Projecte 05 | La Incubadora*
+
+<img width="3000" height="2000" alt="image" src="https://github.com/user-attachments/assets/c295c9a2-f800-426f-9374-095482605789" />
 
 
+Durant el proper mes, l'aula es transformarà en una autèntica incubadora empresarial. Oblideu el treball teòric: afrontareu una simulació rigorosa on actuareu com un equip emprenedor amb un únic objectiu: dissenyar i estructurar una empresa IT des de la base fins a la seva presentació davant d'inversors potencials.
+
+El repte és deixar enrere el rol d'estudiant per adoptar el de professional. No busquem una idea innovadora abstracta, sinó una proposta sòlida que demostri:
+
+ - Identificació de necessitats: Un problema real amb un client identificat.
+
+ - Solució viable: Una proposta tècnica clara i diferenciada.
+
+ - Model de negoci: Una estructura de rendibilitat i unes previsions financeres coherents.
+
+ - Capacitat executora: Un equip preparat per defensar i portar a terme el projecte amb èxit.
 
 
+### Enllaços
+
+[Projecte05 - La Incubadora | Documentació](https://docs.google.com/document/d/1_8Tt_eRl6O6JmPEjX-yZ1EoPQcA4MRjU/edit#heading=h.tyjcwt)
+
+[Projecte05 - La Incubadora | Repositori Github](https://github.com/paumartinezs/projecte5-paumartinezs)
+
+---
+
+## *Projecte 06 | Nexus*
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/05cbf1aa-c47b-4734-a512-4aa261798631" />
+
+Projecte Nexus vol posar en marxa una plataforma de formació E-learning pròpia, orientada a cursos per a tècnics informàtics i demana que aquesta plataforma es construeixi sobre una infraestructura de servidor eficient, sostenible i amb costos controlats.
+
+Per aquest motiu, Projecte Nexus encarrega al vostre equip tècnic (vosaltres) l’estudi, desplegament i presentació d’una solució completa de servidor, adequada a les necessitats del client i al context real d’una petita o mitjana organització.
+
+### Enllaços
+
+[Projecte06 - Nexus | Documentació](https://docs.google.com/document/d/1dyntLKYDdo1CpgM7ZmHbXXD5VhMYAe9-/edit?rtpof=true&sd=true&tab=t.0)
+
+[Projecte06 - Nexus | Repositori Github](https://github.com/paumartinezs/projecte6-paumartinezs)
+
+---
+
+## *Projecte 07 | FoodLogistic S.A.*
+
+<img width="580" height="430" alt="image" src="https://github.com/user-attachments/assets/3dcbec57-ce92-439e-a722-f420521d5c0e" />
 
 
+"FoodLogístic S.A." és una empresa capdavantera en la distribució i logística alimentària a nivell nacional. Arran de l'obertura de noves rutes i la contractació de més personal, el seu volum de dades i les seves necessitats de comunicació s'han multiplicat.
+
+La seva infraestructura actual s'ha quedat petita i pateixen per la seguretat i la continuïtat del negoci. Han contactat amb la vostra empresa informàtica perquè els ajudeu a modernitzar-se. Us demanen actuar en tres àrees clau:
+
+Al Moodle teniu l'enllaç al document amb l'enunciat del projecte.
+
+### Dades legals i corporatives de "FoodLogistic S.A."
+
+- **Raó social:** FoodLogistic S.A.
+- **NIF:** A08123456
+- **Adreça:**  Carrer de la Teixidora, núm. 13, 08302 Mataró Barcelona.
+- **Inscripció Registral:** Inscrita al Registre Mercantil de Barcelona, Tom 45678, Foli 120, Full B-567890, Inscripció 1a.
+- **Correu electrònic de contacte:** <info@foodlogistic.com>
+- **Telèfon:** +34 935 55 55 55
+- **Nombre de treballadors:** 35
+- **Facturació darrer any:** 25 milions d’euros.
+
+
+### Enllaços
+
+[Projecte07 - Foodlogistic | Documentació](https://docs.google.com/document/d/1-bj8wLEwN5CsDi72T5YBS2x--U9V90SN/edit?rtpof=true&sd=true&tab=t.0)
+
+[Projecte07 - Foodlogistic | Repositori Github](https://github.com/paumartinezs/projecte-7-paumartinezs)
+
+
+---
+
+## *Projecte 08 | Connecta't al Futur: El repte de la digitalització real*
+
+<img width="1056" height="576" alt="image" src="https://github.com/user-attachments/assets/85332f1d-992c-4910-a72f-87853cef6770" />
+
+
+**Descripció del projecte**
+
+En l'economia actual, la transformació digital ja no és una opció, sinó una necessitat de supervivència per a les petites i mitjanes empreses (PIMEs). Tanmateix, digitalitzar no vol dir només omplir les oficines d'ordinadors o traslladar dades al núvol; implica fer-ho de manera intel·ligent, eficient i, sobretot, sostenible.
+
+Com a futurs tècnics en Sistemes Microinformàtics i Xarxes, la vostra missió en aquest projecte intermodular és actuar com a consultors tecnològics per a un negoci local. No només haureu de resoldre les seves mancances tècniques, sinó que haureu de demostrar que la tecnologia pot ser una aliada del medi ambient.
+
+
+### Enllaços
+
+[Projecte08 - Connecta't al Futur: El repte de la digitalització real | Documentació](https://github.com/SMX2n/Projecte8_Enunciat)
+
+[Projecte08 - Connecta't al Futur: El repte de la digitalització real | Repositori Github](https://github.com/paumartinezs/projecte-8-paumartinezs)
 
 
 
