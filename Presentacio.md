@@ -263,11 +263,9 @@ Com a futurs tècnics en Sistemes Microinformàtics i Xarxes, la vostra missió 
 
 [Projecte08 - Connecta't al Futur: El repte de la digitalització real | Repositori Github](https://github.com/paumartinezs/projecte-8-paumartinezs)
 
+---
 
-
-
-
-## Seccio 4: Enllaços als repositoris Github
+## 3: Enllaços als repositoris Github
 
 A continuació es detalla la relació de projectes acadèmics desenvolupats, que constitueixen el nucli pràctic d'aquesta defensa:
 
@@ -281,7 +279,7 @@ A continuació es detalla la relació de projectes acadèmics desenvolupats, que
 
 ---
 
-## Seccio 5: Balanç Tecnic i Aprenentatges
+## 4: conclusions i aprenentatges.
 
 El desenvolupament continuat d'aquests projectes ha permès consolidar habilitats dures i toves (hard i soft skills) de gran valor professional:
 
