@@ -54,8 +54,6 @@ Especialitats: Seguretat informàtica, administració de xarxes, gestió de serv
 
 ### Informació de contacte
 
- Ubicació: Arenys de mar / Barcelona
-
  Correu: p.martinezsierra08@gmail.com
  
 ### Idiomes
