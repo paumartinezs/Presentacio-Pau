@@ -65,16 +65,26 @@ Castellà: Natiu
 Anglès: B1
 
 
-## Seccio 2: Bloques de l'Exposició
+## 2: Explicació resumida dels projectes.
 
-El fil conductor de la defensa es dividirà en els següents punts:
+### Projecte 01 | Arranquem
 
-1. Contextualització i objectius de la defensa.
-2. Catàleg de projectes i desenvolupaments pràctics.
-3. Anàlisi d'aprenentatges i conclusions finals.
-4. Torn de preguntes i tancament.
+En aquesta fase inicial, l'objectiu no és tenir un producte final acabat o funcional. Som conscients que encara esteu en procés d'aprenentatge i, per això, el que busquem no és el resultat tècnic, sinó la vostra capacitació en l'entorn de treball professional.
 
----
+El focus d'aquest repte és dominar la dinàmica d'una empresa real:
+
+Metodologia rigorosa: Adoptar hàbits de treball estructurats i constants.
+
+Gestió visual (Kanban): Organitzar-vos eficaçment i distribuir les tasques mitjançant eines digitals com Microsoft Planner.
+
+Treball en equip: Comprendre la importància de l'ordre i la planificació.
+
+En definitiva, el vostre èxit en aquest projecte no es mesurarà pel programari o servei lliurat, sinó per la vostra evolució en la manera d'executar els projectes de manera professional.
+
+### Enllaços
+
+[Projecte01 - Arranquem | Documentació](https://docs.google.com/document/d/1jDWEedM7QYOM9GDpSKxQYTwa1-SNoTe4/edit#heading=h.tyjcwt)
+
 
 ## Seccio 3: Objectius Core de la Presentació
 
