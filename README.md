@@ -29,4 +29,4 @@ La disposició d'aquest repositori ofereix dos avantatges clau per a la defensa:
 
 ---
 
-[Presentacio.md](presentacio.md)
+[Presentacio.md](Presentacio.md)
