@@ -21,7 +21,7 @@
 
 ### Pau Martinez
 
-Estudiant de SMR a punt de graduar-me i apassionat per la tecnologia
+Estudiant de SMX a punt de graduar-me i apassionat per la tecnologia
 
 ### Perfil
 Sóc un tècnic en formació, treballador i amb una actitud proactiva davant els reptes tecnològics. Em caracteritzo per la meva puntualitat, la capacitat d'adaptació a diferents entorns laborals i el meu ferm compromís amb la qualitat en cada tasca que realitzo.
