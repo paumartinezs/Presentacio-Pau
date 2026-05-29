@@ -26,3 +26,7 @@ La disposició d'aquest repositori ofereix dos avantatges clau per a la defensa:
 
 1. Agilitat: Permet un accés ràpid i fluid a qualsevol recurs en temps real durant la presentació davant del tribunal.
 2. Organització: Serveix com a evidència directa de la planificació i de la capacitat de síntesi de la feina feta durant el curs.
+
+---
+
+[Presentacio.md](presentacio.md)
