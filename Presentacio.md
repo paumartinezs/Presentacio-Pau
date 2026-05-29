@@ -13,7 +13,8 @@
  - Projecte 6: Nexus
  - Projecte 7: FoodLogistic S.A
  - Projecte 8: Connecta't al Futur: El repte de la digitalització real
-
+ - Links als repositoris Github
+ - Conculsions i aprenentatges
 ---
 
 ## 1. Introducció / Sobre mi
